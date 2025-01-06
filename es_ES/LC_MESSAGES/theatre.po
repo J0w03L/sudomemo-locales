@@ -623,6 +623,9 @@ msgstr "Twitter"
 msgid "NAVBAR_ITEM_USEFUL_LINKS"
 msgstr "Enlaces Útiles"
 
+msgid "NAVBAR_ITEM_YOUTUBE"
+msgstr "YouTube"
+
 # Navbar
 msgid "NAVBAR_TOGGLE_NAVIGATION"
 msgstr "Habilitar Navegación"
@@ -1252,6 +1255,3 @@ msgstr "Ver ahora:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Estás editando esta Flipnote:"
-
-msgid "NAVBAR_ITEM_YOUTUBE"
-msgstr "YouTube"

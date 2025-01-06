@@ -623,6 +623,9 @@ msgstr "Twitter"
 msgid "NAVBAR_ITEM_USEFUL_LINKS"
 msgstr "お役立ちリンク"
 
+msgid "NAVBAR_ITEM_YOUTUBE"
+msgstr "YouTube"
+
 # Navbar
 msgid "NAVBAR_TOGGLE_NAVIGATION"
 msgstr "ナビゲーションの切り替え"
@@ -1252,6 +1255,3 @@ msgstr "今すぐ見る:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "編集中"
-
-msgid "NAVBAR_ITEM_YOUTUBE"
-msgstr "YouTube"

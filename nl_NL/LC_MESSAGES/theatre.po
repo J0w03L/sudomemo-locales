@@ -640,6 +640,9 @@ msgstr "Twitter"
 msgid "NAVBAR_ITEM_USEFUL_LINKS"
 msgstr "Handige Links"
 
+msgid "NAVBAR_ITEM_YOUTUBE"
+msgstr "YouTube"
+
 # Navbar
 msgid "NAVBAR_TOGGLE_NAVIGATION"
 msgstr "Toggle navigatie"
@@ -1284,6 +1287,3 @@ msgstr "Kijk nu:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Je bent deze Flipnote aan het bewerken:"
-
-msgid "NAVBAR_ITEM_YOUTUBE"
-msgstr "YouTube"
