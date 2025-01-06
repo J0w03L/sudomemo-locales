@@ -1252,3 +1252,6 @@ msgstr "Δειτε τωρα:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Επεξεργαζεστε αυτο το Flipnote:"
+
+msgid "NAVBAR_ITEM_YOUTUBE"
+msgstr "YouTube"

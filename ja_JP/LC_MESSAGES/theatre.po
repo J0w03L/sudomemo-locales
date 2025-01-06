@@ -1252,3 +1252,6 @@ msgstr "今すぐ見る:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "編集中"
+
+msgid "NAVBAR_ITEM_YOUTUBE"
+msgstr "YouTube"
